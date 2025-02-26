@@ -1,0 +1,8 @@
+streamlit
+speechrecognition
+requests
+librosa
+numpy
+gtts
+transformers
+torch
